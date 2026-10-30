@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-alpha-quant",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Alpha Quant - Ornstein-Uhlenbeck mean reversion parameter estimator and fractional Kelly portfolio allocator with VaR and CVaR risk.",
+  "tools": [
+    "fit_ornstein_uhlenbeck_parameters",
+    "compute_fractional_kelly_sizing",
+    "calculate_var_cvar"
+  ]
+}
